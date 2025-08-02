@@ -13,6 +13,7 @@ public:
 
     float toFahrenheit() {
         return (celsius * 9 / 5) + 32;
+             //prints the celsius temperature in fahrenheit
     }
 
     void displayFahrenheit() {
